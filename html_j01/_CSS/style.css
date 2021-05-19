@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    position: relative;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(243, 208, 92), rgb(235, 80, 183));
+    width: 25%;
+    margin: 1% 40%;
+    border-radius: 18px;
+}
+p{
+    position: relative;
+    margin: 0% 10%;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(243, 208, 92), rgb(235, 80, 183));
+    font-size: 20pt;
+    border-radius: 18px;
+}
+p#tela{
+    width: 25%;
+    margin: 0% 40%;
+}
+input{
+    position: relative;
+    font-size: 20pt;
+    border-radius: 18px;
+    background-image: linear-gradient(to bottom, rgb(243, 208, 92), rgb(235, 80, 183));
+    margin: 1% 0;
+}
+input#calculo{
+    left: 15%;
+}
+input#limpar{
+    left: 58%;
+}

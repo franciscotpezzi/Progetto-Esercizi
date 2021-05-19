@@ -1,0 +1,44 @@
+body{
+    position:absolute;
+    background-color:rgb(231, 210, 142);
+}
+ul#um{
+    top: 45px;
+}
+p#res{
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    font-size:  20px;
+    text-indent: 50px;
+}
+strong{
+    color: rgb(230, 30, 30);
+    font-size: 25px;
+}
+input{
+    background-color: blue;
+    color: #fff;
+    font-size: 20pt;
+    border-radius: 50%;
+    width: 150px;
+    height: 60px;
+    position: relative;
+    left: 25%;
+}
+input#limpar {
+    background-color:rgb(184, 230, 99);
+    color: rgb(235, 37, 37);
+    left: 50%;
+    position: relative;
+}
+header{
+    background-color: rgb(226, 142, 142);
+    border-radius: 20px;
+}
+header h1{
+    color: rgb(64, 32, 114);
+    text-indent: 50px;
+
+}

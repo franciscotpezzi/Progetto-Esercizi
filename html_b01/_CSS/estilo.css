@@ -1,0 +1,53 @@
+body{
+    position:relative;
+    background-color: rgb(245, 211, 169);
+}
+header{
+    position: relative;    
+}
+header h1{
+    color: rgb(211, 79, 79);
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    font-size: 30pt;
+}
+header p{
+    font-size: 18pt;
+}
+ul#dois{
+    top: 35px;
+}
+
+div{
+    position: relative;
+    margin:6% 40% 5% 40%;    
+}
+input{
+    border-radius: 35px;
+    border: 1px solid rgb(238, 150, 150);
+
+}
+input#num{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+div#res{
+    position: relative;
+    top: 0px;
+    left: 10px;
+    margin: 2% 40% 0% 40%;
+    background-color: coral;
+    border-radius: 35px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.5)
+}
+input#calc{
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+input#lim{
+    position: relative;
+    left: 20px;
+    top: 5px;
+}

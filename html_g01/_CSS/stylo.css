@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body{
+    position: relative;
+    background-image: linear-gradient(to right, rgb(245, 195, 129), rgb(96, 195, 219));
+    text-align: center;
+    font-size:18pt;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+}
+h1{
+    position: relative;
+    background-image: linear-gradient(to right, rgb(189, 114, 139), rgb(96, 195, 219), rgb(189, 114, 139));
+    border-radius: 18pt;
+    width: 60%;
+    left: 20%;
+}
+p{
+    position: relative;
+    background-image: linear-gradient(to right, rgb(189, 114, 139), rgb(96, 195, 219), rgb(189, 114, 139));
+    border-radius: 18pt;
+}
+
+p#resp{
+    position: relative;
+    background-image: linear-gradient(to right, rgb(189, 114, 139), rgb(96, 195, 219), rgb(189, 114, 139));
+    width: 60%;
+    left:20%;
+    border-radius: 18pt;
+}
+button{
+    font: 1em sans-serif;
+    border-radius: 18pt;
+    background-image: linear-gradient(to right, rgb(189, 114, 139), rgb(96, 195, 219), rgb(189, 114, 139));
+}
+button#pot{
+position: relative;
+left: -20%;
+}
+button#limp{
+position: relative;
+left: 20%;
+}

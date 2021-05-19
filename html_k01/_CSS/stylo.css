@@ -1,0 +1,42 @@
+body{
+    position:relative;
+    background-image: radial-gradient(circle, #f8fa71, #fa7e7e, #f1f38e );
+    font-size: 18pt;
+}
+
+
+
+h1{
+    position: relative;
+    left: 20%;
+
+}
+p{
+    position: relative;
+    margin: 1% 20%;
+    text-indent: 5%;
+    text-align: justify;
+    font:Arial, sans-serif;
+    font-size: 14pt;
+    background-image: radial-gradient(circle, #f8fa71, #fa7e7e, #f1f38e );
+    border-radius: 18px;
+    padding: 0.5%;
+}
+img{
+    position: relative;
+    margin: 1% 33%;
+    border-radius: 18px;
+}
+button{
+    font-size: 20pt;
+    background-image: radial-gradient(circle, #f8fa71, #fa7e7e, #f1f38e );
+    border-radius: 18px;
+}
+button#calc{
+    position: relative;
+    left: 21%;
+}
+button#cancel{
+    position: relative;
+    left: 64%;
+}

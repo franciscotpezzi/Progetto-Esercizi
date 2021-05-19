@@ -1,0 +1,28 @@
+
+body{
+    position:relative;
+    background-image: linear-gradient(to right, rgb(165, 165, 240), rgb(240, 165, 165), rgb(165, 165, 240));
+    margin: 2% 5%;
+    text-align:center;
+}
+
+p{
+    position:relative;
+    background-image: linear-gradient(to right, rgb(173, 43, 156), rgb(228, 178, 41), rgb(173, 43, 156));
+    border-radius: 18px;
+    font-size: larger;
+}
+button{
+    position:relative;
+    background-image: linear-gradient(to right, rgb(173, 43, 156), rgb(228, 178, 41), rgb(173, 43, 156));
+    border-radius: 18px;
+    font: 1em sans-serif;
+}
+h2{
+    position:relative;
+    background-image: linear-gradient(to right, rgb(173, 43, 156), rgb(228, 178, 41), rgb(173, 43, 156));
+    border-radius: 18px;
+    width: 50%;
+    left: 25%;
+    font-size: 25pt;
+}
