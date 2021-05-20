@@ -27,6 +27,7 @@ div#interface{
     padding: 10px;
 }
 header#cabecalho{
+    position: relative;
     border-bottom: 1px #606060 solid;
     height: 350px;
     background-image: linear-gradient(to right, rgb(95, 168, 95), rgb(255, 255, 255), rgb(160, 66, 66));
