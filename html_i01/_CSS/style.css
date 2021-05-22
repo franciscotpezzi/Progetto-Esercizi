@@ -12,6 +12,10 @@ p{
     border-radius: 18px;
     font-size: larger;
 }
+ul#nono{
+    position: relative;
+    font-size: 20pt;
+}
 button{
     position:relative;
     background-image: linear-gradient(to right, rgb(173, 43, 156), rgb(228, 178, 41), rgb(173, 43, 156));

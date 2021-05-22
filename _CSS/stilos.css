@@ -29,10 +29,15 @@ div#interface{
 header#cabecalho{
     position: relative;
     border-bottom: 1px #606060 solid;
-    height: 350px;
+    height: 250px;
     background-image: linear-gradient(to right, rgb(95, 168, 95), rgb(255, 255, 255), rgb(160, 66, 66));
     border-radius: 18px;
    }
+header#cabecalho p{
+    position: relative;
+    font-size: 15pt;
+    color:#142c9b
+}
 header#cabecalho h1{
     font-family: 'FonteLogo', sans-serif;
     font: size 20pt;
@@ -63,7 +68,7 @@ ul#principal{
 nav#menu ul{
     list-style: none;
     text-transform: uppercase;
-    position: absolute;
+    position: relative;
     margin: 0% 18%;
 }
 nav#menu li{
@@ -175,6 +180,7 @@ p{
     text-align: justify;
     margin: 1%;;
     text-indent: 50px;
+    font-size: 18pt;
 }
 figure.foto-legenda{
     position: relative;

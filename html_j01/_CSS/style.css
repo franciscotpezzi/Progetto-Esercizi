@@ -17,6 +17,11 @@ p{
     font-size: 20pt;
     border-radius: 18px;
 }
+ul#dez{
+    position: relative;
+    left: 250px;
+    font-size: 20pt;
+}
 p#tela{
     width: 25%;
     margin: 0% 40%;
